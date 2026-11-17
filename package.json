@@ -1,0 +1,14 @@
+{
+  "name": "careerready",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "CareerReady - career readiness calculator with a protected admin panel",
+  "scripts": {
+    "dev": "netlify dev",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
